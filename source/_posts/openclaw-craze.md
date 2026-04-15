@@ -2,6 +2,9 @@
 title: "养虾热潮下的魔幻世界：动辄千元的 OpenClaw 上门安装服务、飞书插件玩虾大会、一个普通人的使用体验"
 date: 2026-04-15 18:15:00
 description: "从普通用户视角记录 OpenClaw 热潮下的部署体验、市场乱象和产品落地想象。"
+cover: /images/posts/openclaw-cover.svg
+top_img: /images/posts/openclaw-cover.svg
+sticky: 1
 categories:
   - 长思
 tags:
@@ -32,13 +35,13 @@ tags:
 
 它给我的第一份反馈，倒是超出了我的预期。没有多余的废话，直接自动构建了一份科技Newsletter选题管理的多维表格，把当天TechCrunch、The Verge、36氪上相关的AI行业新闻全部抓取了下来，分好了来源站点、分类标签、时效性评分和受众匹配度。
 
-【龙虾生成的科技Newsletter选题管理多维表格图片】
+![](/images/posts/openclaw-table.svg)
 
 除此之外，它还同步写了一篇适配X平台风格的短文草稿，分别存成了md和txt文件放在了工作空间里。
 
 [x-article-draft-2026-02-25-x-ready.txt]
 
-【龙虾生成的X平台短文TXT原文内容】
+![](/images/posts/openclaw-social.svg)
 
 唯一的遗憾，是最终没能实现自动发文的功能，而我也在看到账单只扣了4.99元之后，立马关掉了自动续费，盘算着要么换更便宜的阿里百炼试试，要么等等飞书刚出的官方插件，看看有没有更省心的集成方式。
 

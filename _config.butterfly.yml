@@ -1,4 +1,4 @@
-nav:
+﻿nav:
   logo:
   display_title: true
   display_post_title: true
@@ -24,11 +24,11 @@ avatar:
   effect: false
 
 disable_top_img: false
-default_top_img:
-index_img:
-archive_img:
-tag_img:
-category_img:
+default_top_img: /images/site/home-hero.svg
+index_img: /images/site/home-hero.svg
+archive_img: /images/site/archive-hero.svg
+tag_img: /images/site/tags-hero.svg
+category_img: /images/site/categories-hero.svg
 footer_img: false
 background:
 
@@ -37,6 +37,9 @@ cover:
   aside_enable: true
   archives_enable: true
   default_cover:
+    - /images/posts/sbti-cover.svg
+    - /images/posts/openclaw-cover.svg
+    - /images/posts/soul-cover.svg
 
 post_meta:
   page:
@@ -64,8 +67,8 @@ subtitle:
   source: false
   sub:
     - also known as 碰个橙子
-    - 我把项目、写作、食物和生活放在同一个地方慢慢长大。
-    - 不是把爱好附在履历后面，而是让它们一起构成我。
+    - 我把项目、写作、味觉和日常放在同一个地方慢慢长大
+    - 不是把爱好附在履历后面，而是让它们一起构成我
 
 toc:
   post: true
@@ -148,7 +151,7 @@ comments:
 
 giscus:
   repo: jolene718/jolene718.github.io
-  repo_id:
+  repo_id: R_kgDOSDa0Ww
   category_id:
   light_theme: light
   dark_theme: transparent_dark

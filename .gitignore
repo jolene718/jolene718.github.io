@@ -1,4 +1,4 @@
-.DS_Store
+﻿.DS_Store
 Thumbs.db
 db.json
 *.log
@@ -7,5 +7,6 @@ public/
 site/
 dist/
 output/
+release/
 .deploy*/
 _multiconfig.yml

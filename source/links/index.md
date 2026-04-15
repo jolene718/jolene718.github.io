@@ -2,6 +2,7 @@
 title: 链接
 date: 2026-04-15 22:10:00
 aside: true
+top_img: /images/site/links-hero.svg
 ---
 
 这里放的是我在互联网上比较重要的几个出口。
@@ -30,3 +31,4 @@ aside: true
 - <https://persvadisto.github.io/>
 
 如果以后这个站慢慢长大，这一页也会继续长出更多友链。
+

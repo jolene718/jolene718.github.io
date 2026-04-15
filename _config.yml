@@ -1,4 +1,4 @@
-# Hexo Configuration
+﻿# Hexo Configuration
 ## Docs: https://hexo.io/docs/configuration.html
 ## Source: https://github.com/hexojs/hexo/
 
@@ -28,7 +28,7 @@ pretty_urls:
 
 # Directory
 source_dir: source
-public_dir: output
+public_dir: release
 tag_dir: tags
 archive_dir: archives
 category_dir: categories
@@ -110,3 +110,4 @@ theme: butterfly
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+

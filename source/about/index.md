@@ -2,6 +2,7 @@
 title: 关于
 date: 2026-04-15 18:20:00
 aside: true
+top_img: /images/site/about-hero.svg
 ---
 
 你好，我是 Jolene，也可以叫我碰个橙子。
@@ -47,3 +48,4 @@ aside: true
 如果你是从简历点进来的，可以先看 [项目](/projects/) 和 [博客归档](/archives/)。
 
 如果你只是偶然路过，也欢迎从 [链接](/links/) 或 [歌单](/music/) 开始慢慢认识我。
+

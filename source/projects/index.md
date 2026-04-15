@@ -2,6 +2,7 @@
 title: 项目
 date: 2026-04-15 18:25:00
 aside: true
+top_img: /images/site/projects-hero.svg
 ---
 
 GitHub 上放的是项目，但我希望这里放的是作品。
@@ -211,3 +212,4 @@ GitHub 上放的是项目，但我希望这里放的是作品。
 - 如果有 demo、release 或文章复盘，会继续挂到各项目下面
 
 如果你是第一次来到这里，我建议先看最上面的几个项目，再去 [博客归档](/archives/) 看我如何把问题写成文章。
+
