@@ -2,7 +2,7 @@
 title: 歌单
 date: 2026-04-15 18:30:00
 aside: true
-top_img: /images/site/music-hero.svg
+top_img: /images/site/music-hero.jpg
 ---
 
 歌单是另一种自我介绍。
@@ -13,30 +13,36 @@ top_img: /images/site/music-hero.svg
 
 ## 最近循环
 
-- 这里以后可以放最近常听的歌，按月或按季更新。
-- 建议形式：每个月 5 首，配一句很短的注释，写下它为什么停留在当下。
+- 山雀 
+https://music.163.com/#/song?id=1805289414
 
-## 写东西时常听
+- 三菜一汤 In the Middle
+https://music.163.com/#/song?id=3316551495
 
-- 这一栏留给那些陪我写长文、整理思路、反复打磨句子的歌。
-- 如果之后接入播放器，这一组可以直接做成固定歌单。
+- 美味情缘 
+<iframe
+  frameborder="no"
+  border="0"
+  marginwidth="0"
+  marginheight="0"
+  width="330"
+  height="86"
+  src="https://music.163.com/outchain/player?type=2&id=2101457213&auto=1&height=66">
+</iframe>
 
-## 适合夜里散步
+- A New Life
+<iframe
+  frameborder="no"
+  border="0"
+  marginwidth="0"
+  marginheight="0"
+  width="330"
+  height="86"
+  src="https://music.163.com/outchain/player?type=2&id=26323126&auto=1&height=66">
+</iframe>
 
-- 有些歌适合走路时听，有些歌适合夜里听，有些歌适合什么都不做的时候听。
-- 这一栏可以保留一点私人感，不需要解释得太完整。
-
-## 以后可以接入的歌单平台
-
-- 网易云歌单
-- QQ 音乐歌单
-- Spotify 歌单
-
-## 这一页接下来会怎么长
-
-- 以后会补一张更贴近夜路、车窗或书桌氛围的照片，让这页先有一张属于“听歌时刻”的封面。
-- 等你确定常用平台后，可以把网易云、QQ 音乐或 Spotify 的歌单链接直接放进来，作为固定入口。
-- 最近循环也会慢慢补成一份真正能点开的月度小歌单，而不是只停留在说明里。
+## 我的一些吉他/Ukulele 弹唱
+- 建设中！视频散落在互联网各个角落:p
 
 如果你是从项目页一路点进来的，那这里可能会是另一个角度的我。比起“我会什么”，我也想留下“我喜欢什么”。
 

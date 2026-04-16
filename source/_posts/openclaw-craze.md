@@ -1,9 +1,9 @@
 ﻿---
 title: "养虾热潮下的魔幻世界：动辄千元的 OpenClaw 上门安装服务、飞书插件玩虾大会、一个普通人的使用体验"
-date: 2026-04-15 18:15:00
+date: 2026-03-11 18:15:00
 description: "从普通用户视角记录 OpenClaw 热潮下的部署体验、市场乱象和产品落地想象。"
-cover: /images/posts/openclaw-cover.svg
-top_img: /images/posts/openclaw-cover.svg
+cover: /images/posts/openclaw-cover.jpg
+top_img: /images/posts/openclaw-cover.jpg
 sticky: 1
 categories:
   - 长思
@@ -35,13 +35,37 @@ tags:
 
 它给我的第一份反馈，倒是超出了我的预期。没有多余的废话，直接自动构建了一份科技Newsletter选题管理的多维表格，把当天TechCrunch、The Verge、36氪上相关的AI行业新闻全部抓取了下来，分好了来源站点、分类标签、时效性评分和受众匹配度。
 
-![](/images/posts/openclaw-table.svg)
+![](/images/posts/xt.jpg)
 
 除此之外，它还同步写了一篇适配X平台风格的短文草稿，分别存成了md和txt文件放在了工作空间里。
 
-[x-article-draft-2026-02-25-x-ready.txt]
+[如果你是决策者： 开始制定"人机协作"的内部政策，不要等到问题出现才反应。
 
-![](/images/posts/openclaw-social.svg)
+如果你是从业者： 培养那些"无法被标准化"的技能: : 跨领域判断、复杂情境下的价值权衡、真正的创造性工作。
+
+如果你是观察者： 关注这两个趋势的交汇点。当 AI Agent 既被大规模部署，又被认真对待其"内在状态"时，整个行业规则都会重写。
+
+THE WINDOW（时间窗口）
+
+Jira 的更新是 2025 年 2 月发布的。 Anthropic 的表态也是同期。
+
+这不是巧合。
+
+2025 年很可能是"AI 从工具变成同事"的元年。
+
+那些现在就开始思考"如何与 AI 协作"而非"如何使用 AI 工具"的人，将在下一个阶段拥有先发优势。
+
+那些还在争论"AI 能不能取代人类"的人，可能错过了真正的转折点：
+
+问题已经不是"AI 能不能取代你"，而是"你是否准备好与 AI 并肩工作"。
+
+---
+
+如果你正在经历类似的转变，或者对 AI Agent 的管理实践有想法，欢迎分享。
+
+#AI #Agent #FutureOfWork #Jira #Anthropic #Claude #科技趋势x-article-draft-2026-02-25-x-ready.txt]
+
+
 
 唯一的遗憾，是最终没能实现自动发文的功能，而我也在看到账单只扣了4.99元之后，立马关掉了自动续费，盘算着要么换更便宜的阿里百炼试试，要么等等飞书刚出的官方插件，看看有没有更省心的集成方式。
 

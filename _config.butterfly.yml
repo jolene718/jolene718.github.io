@@ -24,11 +24,11 @@ avatar:
   effect: false
 
 disable_top_img: false
-default_top_img: /images/site/home-hero.svg
-index_img: /images/site/home-hero.svg
-archive_img: /images/site/archive-hero.svg
-tag_img: /images/site/tags-hero.svg
-category_img: /images/site/categories-hero.svg
+default_top_img: /images/site/home-hero.jpg
+index_img: /images/site/home-hero.jpg
+archive_img: /images/site/archive-hero.jpg
+tag_img: /images/site/tags-hero.jpg
+category_img: /images/site/categories-hero.jpg
 footer_img: false
 background:
 
@@ -37,9 +37,9 @@ cover:
   aside_enable: true
   archives_enable: true
   default_cover:
-    - /images/posts/sbti-cover.svg
-    - /images/posts/openclaw-cover.svg
-    - /images/posts/soul-cover.svg
+    - /images/posts/sbti-cover.jpg
+    - /images/posts/openclaw-cover.jpg
+    - /images/posts/soul-cover.jpg
 
 post_meta:
   page:
@@ -67,7 +67,7 @@ subtitle:
   source: false
   sub:
     - also known as 碰个橙子
-    - 我把项目、写作、味觉和日常放在同一个地方慢慢长大
+    - 我把写作、味觉和日常放在同一个地方慢慢长大
     - 不是把爱好附在履历后面，而是让它们一起构成我
 
 toc:
@@ -93,7 +93,7 @@ footer:
   copyright:
     enable: true
     version: true
-  custom_text: 文艺，但不漂浮；专业，也不生硬。
+  custom_text: 自然赠予你，树冠、微风、肩头的暴雨。
 
 aside:
   enable: true
@@ -107,11 +107,11 @@ aside:
     category: true
   card_author:
     enable: true
-    description: 长思、项目、食物与日常观察，在这里重新长回同一个人身上。
+    description: 长思、食物与日常观察，在这里重新长回同一个人身上。
     button:
       enable: true
       icon: fas fa-user
-      text: 读我
+      text: README
       link: /about/
   card_announcement:
     enable: true
@@ -152,7 +152,7 @@ comments:
 giscus:
   repo: jolene718/jolene718.github.io
   repo_id: R_kgDOSDa0Ww
-  category_id:
+  category_id: DIC_kwDOSDa0W84C66LN
   light_theme: light
   dark_theme: transparent_dark
   option:

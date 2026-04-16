@@ -2,7 +2,7 @@
 title: 项目
 date: 2026-04-15 18:25:00
 aside: true
-top_img: /images/site/projects-hero.svg
+top_img: /images/site/projects-hero.jpg
 ---
 
 GitHub 上放的是项目，但我希望这里放的是作品。

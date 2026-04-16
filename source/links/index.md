@@ -2,7 +2,7 @@
 title: 链接
 date: 2026-04-15 22:10:00
 aside: true
-top_img: /images/site/links-hero.svg
+top_img: /images/site/links-hero.jpg
 ---
 
 这里放的是我在互联网上比较重要的几个出口。
@@ -24,11 +24,9 @@ top_img: /images/site/links-hero.svg
 - `ChanGe` 是我更靠近日常生活、城市味觉和真实片段的一面。
 - 微信公众号保留了专业向写作的另一条流动路径。
 
-## 我喜欢的博客方向
+## 友链
 
-- <https://leonis.cc/>
-- <https://blog.orangex4.workers.dev/>
-- <https://persvadisto.github.io/>
+- 欢迎想要交换友链的友友访问邮箱附明来意！留言功能现在应该也ok
 
 如果以后这个站慢慢长大，这一页也会继续长出更多友链。
 
